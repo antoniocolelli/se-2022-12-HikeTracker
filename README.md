@@ -14,6 +14,7 @@
 
 # HikeTracker
 
+I mainly contributed to the development of the server side of this project.
 Project developed by ***Team-12*** for the course "Software Engineering II," attended during the academic year 2022/23 at Politecnico di Torino, Master's Degree in Computer Engineering.
 
 ## Table of Contents
